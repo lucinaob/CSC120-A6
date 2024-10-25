@@ -1,4 +1,3 @@
-Use this file to record your reflection on this assignment.
+Overall, I found this assignment much easier than our previous assignments. I think this is a combination of the relative simplicity of the inheritance concept and my growing skills in Java. I was able to get the base of this assignment done in an hour or two, and I ran into very few errors along the way. I wish we had talked a bit more in class about how Hashtables worked, as I found myself stumbling with their differences to ArrayLists, which we are by now much more aquainted with. However, when I read the documentation for Hashtables (which I would recommend for anyone doing this assignment in the future), I was able to figure out where I had gone wrong and what my misconceptions were. 
 
-- What are your initial impressions of how `Inheritance` affects your programming?
-- What worked, what didn't, what advice would you give someone taking this course in the future?
+From these first impressions, inheritance seems like a very convienent tool in programming. It streamlines coding and makes it easier to not repeat yourself througout the process. I'm excited to see where this will take me in the future.
